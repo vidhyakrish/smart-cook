@@ -1,5 +1,6 @@
 import streamlit as st
 import openai
+from openai import OpenAI
 
 st.set_page_config(page_title="Campfire Design Assistant", page_icon="🔥")
 
@@ -13,13 +14,13 @@ with open("LLM.txt", "r") as f:
 # Input field
 question = st.text_input("💬 Your Question:")
 
-# API key from secrets
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+# Use OpenAI v1 client
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 if question:
     with st.spinner("Thinking..."):
-        response = openai.ChatCompletion.create(
-            model="gpt-3.5-turbo",  # or gpt-4 if you have access
+        response = client.chat.completions.create(
+            model="gpt-3.5-turbo",
             messages=[
                 {"role": "system", "content": context},
                 {"role": "user", "content": question}
