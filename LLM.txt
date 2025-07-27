@@ -1,0 +1,8 @@
+Component: ExpandableSection
+Use this when you want to hide or show content on user interaction.
+
+Component: Toast
+Use this for non-blocking notifications that auto-dismiss after a few seconds.
+
+Component: Modal
+Use this to grab user attention for confirming actions or entering detailed input.
