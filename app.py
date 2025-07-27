@@ -25,6 +25,6 @@ if ingredients:
                 {"role": "system", "content": context},
                 {"role": "user", "content": f"I have: {ingredients}"}
             ],
-            temperature=0.4
+            temperature=0.8
         )
         st.markdown("**🍽️ Suggested Dish:** " + response.choices[0].message.content.strip())
