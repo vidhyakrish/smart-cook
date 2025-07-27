@@ -1,0 +1,521 @@
+ingredients,dish,region,steps,time
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"tomatoes, onions, green chillies",Tomato Chutney,South Indian,"Sauté onions, tomatoes, and chillies. Blend and temper with mustard seeds and curry leaves.",15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"chickpeas, tahini, lemon, garlic",Hummus,Middle Eastern,Blend all ingredients until smooth. Serve with pita or veggies.,10 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"tortilla, beans, cheese, salsa",Quesadilla,Mexican,Fill tortilla with beans and cheese. Fold and cook on skillet until crispy.,15 minutes
+"bread, cheese, butter",Grilled Cheese Sandwich,American,"Butter the bread, add cheese between slices, and grill until golden brown.",10 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"paneer, bell peppers, onion",Paneer Tikka,North Indian,Marinate paneer and veggies in yogurt and spices. Grill or pan-fry until charred.,30 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"rice, vinegar, sugar, nori, cucumber",Veg Sushi,Japanese,"Prepare sushi rice. Place on nori sheet, add fillings, roll tightly, and slice.",40 minutes
+"pasta, tomato sauce, garlic",Spaghetti Marinara,Italian,"Boil pasta. Sauté garlic in olive oil, add tomato sauce. Mix with cooked pasta.",25 minutes
+"turmeric, lemon, rice",Lemon Rice,South Indian,"Cook rice. In a pan, temper mustard seeds, curry leaves, and green chillies in oil. Add turmeric, salt, and lemon juice. Mix with rice.",20 minutes
+"potatoes, olive oil, rosemary",Roasted Potatoes,Global,"Cube potatoes, toss in oil and herbs, roast until crispy.",35 minutes
+"noodles, soy sauce, egg, scallions",Egg Fried Noodles,Chinese,"Boil noodles. Scramble egg, stir-fry with noodles and soy sauce.",20 minutes
