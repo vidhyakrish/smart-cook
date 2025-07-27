@@ -4,8 +4,8 @@ from openai import OpenAI
 
 st.set_page_config(page_title="Smart Cooking Assistant", page_icon="🍳")
 
-st.title("🍳 Smart Cooking Assistant")
-st.write("Tell me the ingredients you have, and I'll suggest a dish!")
+st.title("🍳 Vidhya's Smart Cooking Assistant")
+st.write("Tell me the ingredients you have, and I'll suggest a dish or (2 or more )!")
 
 # Load system context
 with open("LLM.txt", "r") as f:
