@@ -10,7 +10,7 @@ st.write("Type what you feel like cooking. Mention ingredients, region, or dish 
 # Load recipes
 @st.cache_data
 def load_data():
-    df = pd.read_csv("recipes_diverse.csv")
+    df = pd.read_csv("recipes_diverse_final.csv")
     return df
 
 df = load_data()
