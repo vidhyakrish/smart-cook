@@ -1,0 +1,361 @@
+dish,ingredients,recipe_steps,region,cooking_time,image_url
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Vegetable Biryani,"rice, mixed vegetables, yogurt, spices, saffron, mint","1. Cook vegetables with yogurt and spices.
+2. Layer with rice and saffron.
+3. Cook on low heat (dum).
+4. Garnish with mint and fried onions.",Indian,40 minutes,https://upload.wikimedia.org/wikipedia/commons/5/54/Veg_biryani.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Miso Ramen,"ramen noodles, miso paste, pork broth, egg, nori, corn","1. Cook ramen in miso-infused broth.
+2. Top with boiled egg, corn, and nori.
+3. Serve hot with sesame oil drizzle.",Japanese,30 minutes,https://upload.wikimedia.org/wikipedia/commons/6/60/Miso_Ramen.jpg
+Grilled Salmon with Dill,"salmon, dill, lemon, olive oil, salt, pepper","1. Season salmon with dill, lemon, and olive oil.
+2. Grill until flaky.
+3. Serve with salad or steamed veggies.",Scandinavian,20 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Grilled_salmon_dinner.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
+Ratatouille,"eggplant, zucchini, bell peppers, tomatoes, olive oil, herbs","1. Slice vegetables thinly.
+2. Arrange in a dish and drizzle with oil and herbs.
+3. Bake until tender.
+4. Serve warm with bread.",French,45 minutes,https://upload.wikimedia.org/wikipedia/commons/7/71/Ratatouille_by_caruba.jpg
+Falafel Wrap,"chickpeas, parsley, onion, garlic, spices, pita bread","1. Blend chickpeas with herbs and spices.
+2. Shape into balls and fry.
+3. Serve in pita with tahini sauce.",Middle Eastern,30 minutes,https://upload.wikimedia.org/wikipedia/commons/d/dd/Falafel_sandwich.jpg
+Beef Tacos,"ground beef, taco shells, lettuce, tomato, cheese, sour cream","1. Cook ground beef with spices.
+2. Fill taco shells with beef and toppings.
+3. Garnish with cheese and sour cream.
+4. Serve with salsa or guacamole.",Mexican,20 minutes,https://upload.wikimedia.org/wikipedia/commons/2/29/Beef_Tacos.jpg
+Pork Ginger Stir-Fry,"pork, ginger, garlic, soy sauce, sesame oil, green onions","1. Marinate pork with soy sauce and ginger.
+2. Stir-fry garlic and pork until browned.
+3. Add green onions and cook briefly.
+4. Serve with rice or noodles.",Asian,25 minutes,https://upload.wikimedia.org/wikipedia/commons/f/f0/Shogayaki.jpg
+Butter Chicken,"chicken, butter, cream, tomato puree, garam masala, ginger, garlic","1. Marinate chicken in yogurt and spices.
+2. Grill or pan-fry until cooked.
+3. Simmer with butter, tomato puree, and cream.
+4. Serve with naan or rice.",North Indian,35 minutes,https://upload.wikimedia.org/wikipedia/commons/0/0b/Chicken_makhani.jpg
