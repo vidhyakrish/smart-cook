@@ -11,7 +11,7 @@ df = pd.read_csv("recipes_with_images.csv")
 df["combined"] = df["ingredients"] + " " + df["region"]
 
 # Input from user
-st.title("Smart AI Cook 🍳")
+st.title("Vidhya's Smart AI Cook 🍳")
 query = st.text_input("What ingredients or type of cuisine do you want to cook with?")
 
 if query:
