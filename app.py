@@ -9,7 +9,7 @@ client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 # Load recipe data
 df = pd.read_csv("recipes_diverse.csv")
 
-st.title("🍳 Smart AI Cook")
+st.title("🍳 Vidhya's Smart AI Cook")
 st.write("Ask me what you want to cook with — ingredients, region, cuisine...")
 
 query = st.text_input("What would you like to cook today?")
