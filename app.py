@@ -4,7 +4,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Load the CSV
-df = pd.read_csv("recipes_diverse.csv")
+df = pd.read_csv("recipes_with_images_better.csv")
 
 # Combine fields to give the model more context
 df["combined"] = df["ingredients"] + " " + df["recipe_steps"] + " " + df["region"] + " " + df["dish"]
@@ -36,4 +36,4 @@ if query:
         st.write("**Region:**", result['region'])
         st.write("**Cooking Time:**", result['cooking_time'])
         st.write("**Ingredients:**", result['ingredients'])
-        st.write("**Step**
+        st.write("**Steps:**", result['recipe_steps'])
