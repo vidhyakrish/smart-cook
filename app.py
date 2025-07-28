@@ -4,7 +4,7 @@ import openai
 import os
 
 st.set_page_config(page_title="Smart AI Cook", layout="centered")
-st.title("Smart AI Cook 🍽️")
+st.title("Vidhya's Smart AI Cook 🍽️")
 st.write("Type what you feel like cooking. Mention ingredients, region, or dish type!")
 
 # Load recipes
