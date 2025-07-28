@@ -1,43 +1,61 @@
 import streamlit as st
 import pandas as pd
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
+import openai
+import os
 
+st.set_page_config(page_title="Smart AI Cook", layout="centered")
 st.title("Vidhya's Smart AI Cook 🍽️")
-st.write("Ask me what you want to cook based on ingredients, region, or mood!")
+st.write("Type what you feel like cooking. Mention ingredients, region, or dish type!")
 
-# Load the recipe data
+# Load recipes
 @st.cache_data
 def load_data():
     df = pd.read_csv("recipes_diverse.csv")
-    df["combined"] = df["ingredients"] + " " + df["recipe_steps"] + " " + df["region"] + " " + df["dish"]
     return df
 
 df = load_data()
 
-# Vectorize all recipe descriptions
-vectorizer = TfidfVectorizer()
-tfidf_matrix = vectorizer.fit_transform(df["combined"])
+# Get OpenAI API key from environment variable
+openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# User query input
-query = st.text_input("What do you feel like cooking today?")
+# Handle query
+query = st.text_input("What would you like to cook today?")
 
 if query:
-    query_vec = vectorizer.transform([query])
-    similarity = cosine_similarity(query_vec, tfidf_matrix).flatten()
-    top_index = similarity.argmax()
-    top_score = similarity[top_index]
+    context = ""
+    for _, row in df.iterrows():
+        context += f"Dish: {row['dish']}
+Ingredients: {row['ingredients']}
+Steps: {row['recipe_steps']}
+Region: {row['region']}
+Cooking Time: {row['cooking_time']}
 
-    if top_score > 0.2:
-        result = df.iloc[top_index]
-        st.subheader(result['dish'])
+"
 
-        if pd.notna(result['image_url']) and result['image_url'].startswith("http"):
-            st.image(result['image_url'], caption=result['dish'], use_container_width=True)
+    prompt = f"""You are a cooking assistant. Based on the following dataset, respond to the user query with the most relevant dish.
 
-        st.write("**Region:**", result['region'])
-        st.write("**Cooking Time:**", result['cooking_time'])
-        st.write("**Ingredients:**", result['ingredients'])
-        st.write("**Steps:**", result['recipe_steps'])
-    else:
-        st.warning("Hmm... I couldn’t find a good match. Try something else?")
+    Dataset:
+    {context}
+
+    User query: {query}
+
+    Answer only with the most relevant matching recipe from the dataset. Keep it brief and factual.
+    """
+
+    try:
+        response = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.4
+        )
+        answer = response.choices[0].message.content.strip()
+        st.markdown("### Suggested Recipe")
+        st.markdown(answer)
+
+        # Attempt to show image for top matching dish
+        for _, row in df.iterrows():
+            if row["dish"].lower() in answer.lower() and str(row["image_url"]).startswith("http"):
+                st.image(row["image_url"], caption=row["dish"], use_container_width=True)
+                break
+    except Exception as e:
+        st.error("Something went wrong. Please check your API key or try again later.")
