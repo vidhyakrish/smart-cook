@@ -1,61 +1,60 @@
 import streamlit as st
 import pandas as pd
-import openai
 import os
+from openai import OpenAI
 
-st.set_page_config(page_title="Smart AI Cook", layout="centered")
-st.title("Vidhya's Smart AI Cook 🍽️")
-st.write("Type what you feel like cooking. Mention ingredients, region, or dish type!")
+# Load your OpenAI API key securely
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# Load recipes
-@st.cache_data
-def load_data():
-    df = pd.read_csv("recipes_diverse_final.csv")
-    return df
+# Load recipe data
+df = pd.read_csv("recipes_diverse.csv")
 
-df = load_data()
+st.title("🍳 Smart AI Cook")
+st.write("Ask me what you want to cook with — ingredients, region, cuisine...")
 
-# Get OpenAI API key from environment variable
-openai.api_key = os.getenv("OPENAI_API_KEY")
-
-# Handle query
 query = st.text_input("What would you like to cook today?")
 
 if query:
+    # Turn CSV into a context string
     context = ""
     for _, row in df.iterrows():
-        context += (
-            f"Dish: {row['dish']}\n"
-            f"Ingredients: {row['ingredients']}\n"
-            f"Steps: {row['recipe_steps']}\n"
-            f"Region: {row['region']}\n"
-            f"Cooking Time: {row['cooking_time']}\n\n"
-        )
+        context += f"""
+        Dish: {row['dish']}
+        Region: {row['region']}
+        Cooking Time: {row['cooking_time']}
+        Ingredients: {row['ingredients']}
+        Steps: {row['recipe_steps']}
+        ---
+        """
 
-    prompt = f"""You are a cooking assistant. Based on the following dataset, respond to the user query with the most relevant dish.
-
-    Dataset:
+    # Create the prompt
+    prompt = f"""You are a recipe assistant. Based on the user query below, search the context for a suitable dish:
+    
+    Context:
     {context}
 
-    User query: {query}
+    User Query: {query}
+    
+    Give a helpful response with dish name, ingredients, steps, and a friendly tone."""
 
-    Answer only with the most relevant matching recipe from the dataset. Keep it brief and factual.
-    """
-
+    # Make OpenAI call
     try:
-        response = openai.ChatCompletion.create(
+        response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0.4
+            temperature=0.7
         )
-        answer = response.choices[0].message.content.strip()
-        st.markdown("### Suggested Recipe")
-        st.markdown(answer)
 
-        # Attempt to show image for top matching dish
-        for _, row in df.iterrows():
-            if row["dish"].lower() in answer.lower() and str(row["image_url"]).startswith("http"):
-                st.image(row["image_url"], caption=row["dish"], use_container_width=True)
-                break
+        answer = response.choices[0].message.content
+        st.markdown("### 🍽️ Suggested Recipe")
+        st.write(answer)
+
+        # Try to show the matching image from CSV
+        match = df[df['dish'].str.lower().str.contains(query.lower())]
+        if not match.empty:
+            image_url = match.iloc[0]['image_url']
+            if pd.notna(image_url):
+                st.image(image_url, use_container_width=True)
+
     except Exception as e:
-        st.error("Something went wrong. Please check your API key or try again later.")
+        st.error(f"⚠️ Error: {e}")
