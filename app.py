@@ -4,7 +4,7 @@ import openai
 import os
 
 st.set_page_config(page_title="Smart AI Cook", layout="centered")
-st.title("Vidhya's Smart AI Cook 🍽️")
+st.title("Smart AI Cook 🍽️")
 st.write("Type what you feel like cooking. Mention ingredients, region, or dish type!")
 
 # Load recipes
@@ -24,13 +24,13 @@ query = st.text_input("What would you like to cook today?")
 if query:
     context = ""
     for _, row in df.iterrows():
-        context += f"Dish: {row['dish']}
-Ingredients: {row['ingredients']}
-Steps: {row['recipe_steps']}
-Region: {row['region']}
-Cooking Time: {row['cooking_time']}
-
-"
+        context += (
+            f"Dish: {row['dish']}\n"
+            f"Ingredients: {row['ingredients']}\n"
+            f"Steps: {row['recipe_steps']}\n"
+            f"Region: {row['region']}\n"
+            f"Cooking Time: {row['cooking_time']}\n\n"
+        )
 
     prompt = f"""You are a cooking assistant. Based on the following dataset, respond to the user query with the most relevant dish.
 
