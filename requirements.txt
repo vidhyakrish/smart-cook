@@ -1,4 +1,5 @@
 streamlit
-openai>=1.0.0
-faiss-cpu
-sentence-transformers
+pandas
+openai>=1.3.0
+pyttsx3
+SpeechRecognition
