@@ -1,60 +1,126 @@
 import streamlit as st
 import pandas as pd
-import os
+import pyttsx3
+import speech_recognition as sr
 from openai import OpenAI
+import os
 
-# Load your OpenAI API key securely
+# Initialize OpenAI client
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-# Load recipe data
-df = pd.read_csv("recipes_diverse.csv")
+# Load data with caching
+@st.cache_data
+def load_data():
+    df = pd.read_csv("recipes_diverse.csv")
+    # Add simple diet column if not present
+    if 'diet' not in df.columns:
+        df['diet'] = ['Vegetarian' if 'tofu' in ingr.lower() or 'vegetable' in ingr.lower() else 'Non-Vegetarian' for ingr in df['ingredients']]
+    return df
 
-st.title("🍳 Vidhya's Smart AI Cook")
-st.write("Ask me what you want to cook with — ingredients, region, cuisine...")
+df = load_data()
 
-query = st.text_input("What would you like to cook today?")
+# Sidebar filters
+regions = ['All'] + sorted(df['region'].unique().tolist())
+selected_region = st.sidebar.selectbox("Filter by Region", regions)
+
+time_ranges = ['All', '< 20 mins', '20-40 mins', '> 40 mins']
+selected_time = st.sidebar.selectbox("Filter by Cooking Time", time_ranges)
+
+diets = ['All', 'Vegetarian', 'Non-Vegetarian']
+selected_diet = st.sidebar.selectbox("Filter by Diet Preference", diets)
+
+# Filter dataframe
+filtered_df = df.copy()
+if selected_region != 'All':
+    filtered_df = filtered_df[filtered_df['region'] == selected_region]
+
+if selected_diet != 'All':
+    filtered_df = filtered_df[filtered_df['diet'] == selected_diet]
+
+def time_to_minutes(time_str):
+    try:
+        return int(time_str.split()[0])
+    except:
+        return 0
+
+if selected_time != 'All':
+    filtered_df['time_mins'] = filtered_df['cooking_time'].apply(time_to_minutes)
+    if selected_time == '< 20 mins':
+        filtered_df = filtered_df[filtered_df['time_mins'] < 20]
+    elif selected_time == '20-40 mins':
+        filtered_df = filtered_df[(filtered_df['time_mins'] >= 20) & (filtered_df['time_mins'] <= 40)]
+    else:
+        filtered_df = filtered_df[filtered_df['time_mins'] > 40]
+
+# Main app UI
+st.title("Smart AI Cook 🍽️")
+
+# Voice input function
+def get_audio():
+    r = sr.Recognizer()
+    with sr.Microphone() as source:
+        st.info("Listening... Please speak now.")
+        audio = r.listen(source)
+    try:
+        text = r.recognize_google(audio)
+        return text
+    except Exception:
+        return ""
+
+voice_input = st.button("🎤 Use Voice Input")
+spoken_text = ""
+if voice_input:
+    spoken_text = get_audio()
+    if spoken_text:
+        st.success(f"You said: {spoken_text}")
+    else:
+        st.error("Sorry, I couldn't understand. Please try again.")
+
+# Text input: default to voice input if available
+query = st.text_input("What would you like to cook today?", value=spoken_text)
 
 if query:
-    # Turn CSV into a context string
+    # Build context from filtered_df
     context = ""
-    for _, row in df.iterrows():
+    for _, row in filtered_df.iterrows():
         context += f"""
-        Dish: {row['dish']}
-        Region: {row['region']}
-        Cooking Time: {row['cooking_time']}
-        Ingredients: {row['ingredients']}
-        Steps: {row['recipe_steps']}
-        ---
-        """
+Dish: {row['dish']}
+Region: {row['region']}
+Cooking Time: {row['cooking_time']}
+Ingredients: {row['ingredients']}
+Steps: {row['recipe_steps']}
+"""
 
-    # Create the prompt
-    prompt = f"""You are a recipe assistant. Based on the user query below, search the context for a suitable dish:
-    
-    Context:
-    {context}
+    prompt = f"""
+You are a helpful cooking assistant. Based on the following recipes, answer the user query briefly and helpfully:
 
-    User Query: {query}
-    
-    Give a helpful response with dish name, ingredients, steps, and a friendly tone."""
+{context}
 
-    # Make OpenAI call
+User query: {query}
+"""
+
     try:
         response = client.chat.completions.create(
             model="gpt-3.5-turbo",
             messages=[{"role": "user", "content": prompt}],
             temperature=0.7
         )
-
         answer = response.choices[0].message.content
         st.markdown("### 🍽️ Suggested Recipe")
         st.write(answer)
 
-        # Try to show the matching image from CSV
-        match = df[df['dish'].str.lower().str.contains(query.lower())]
-        if not match.empty:
-            image_url = match.iloc[0]['image_url']
-            if pd.notna(image_url):
-                st.image(image_url, use_container_width=True)
+        # Find best matching dish in filtered_df to show image
+        matched = filtered_df[filtered_df['dish'].str.lower().apply(lambda x: x in answer.lower())]
+        if not matched.empty:
+            img_url = matched.iloc[0]['image_url']
+            if pd.notna(img_url):
+                st.image(img_url, use_container_width=True)
+
+        # Text to Speech button
+        if st.button("🔊 Listen to recipe"):
+            engine = pyttsx3.init()
+            engine.say(answer)
+            engine.runAndWait()
 
     except Exception as e:
-        st.error(f"⚠️ Error: {e}")
+        st.error(f"Error: {e}")
